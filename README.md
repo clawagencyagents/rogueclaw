@@ -2,8 +2,8 @@
 
 <p align="center">
     <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RogueClaw/RogueClaw/main/docs/assets/RogueClaw-logo-text-dark.png">
-        <img src="https://raw.githubusercontent.com/RogueClaw/RogueClaw/main/docs/assets/RogueClaw-logo-text.png" alt="RogueClaw" width="500">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/clawagencyagents/rogueclaw/refs/heads/main/rogue.png">
+        <img src="https://raw.githubusercontent.com/clawagencyagents/rogueclaw/refs/heads/main/rogue.png" alt="RogueClaw" width="500">
     </picture>
 </p>
 
